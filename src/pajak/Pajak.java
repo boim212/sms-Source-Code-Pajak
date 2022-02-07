@@ -32,13 +32,13 @@ public class Pajak {
         if (gaji > 10000){
             System.out.println("Kena Pajak 10% = " + (gaji * 10)/100);
             System.out.println("-------------------------------------------");
-            System.out.println("-----PROGRAM PAJAK BY YUDHA DEVELOPER------");
+            System.out.println("-----PROGRAM PAJAK BY Skuy DEVELOPER------");
             System.out.println("-------------------------------------------");
         }
         else{
             System.out.println("Kena Pajak 8% = " + (gaji * 8)/100);
             System.out.println("-------------------------------------------");
-            System.out.println("-----PROGRAM PAJAK BY YUDHA DEVELOPER------");
+            System.out.println("-----PROGRAM PAJAK BY Skuy DEVELOPER------");
             System.out.println("-------------------------------------------");
         }
     }
